@@ -51,5 +51,3 @@ You want to get in touch? Just send me an [email](mailto:kontakt@jasonerny.me) a
                 <img src="https://github-readme-streak-stats.herokuapp.com?user=jasonerny&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%" alt="@Jason Erny's github-readme-stats"/></a>
         </p>
 </details>
-<br />
-
