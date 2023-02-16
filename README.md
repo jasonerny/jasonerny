@@ -33,15 +33,15 @@ I'm Jason, a college student from Germany who is passionate about software engin
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<br />
+<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /><br>
+
+<br>
 
 <h3>📫 Like to contact me?</h3>
 
 You want to get in touch? Just send me an [email](mailto:kontakt@jasonerny.me) and I will get back to you as soon as possible, however I don't take any requests at the moment as I'm actively working on several projects. 
 
-<br />
-
+<br>
 <details>
     <summary><h3>📊 GitHub Stats</h3></summary>
         <p align="center">
